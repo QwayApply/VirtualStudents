@@ -1,4 +1,4 @@
-import genetate
+import generate
 
 
 def main(*args):
@@ -9,7 +9,8 @@ def main(*args):
 
 
 if __name__ == '__main__':
-    generate.generate_sutdents('applies.xlsx')
+    # generate.generate('applies.xlsx')
+    pass
 
 
 '''
